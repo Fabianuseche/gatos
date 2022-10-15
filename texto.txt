@@ -2,8 +2,6 @@ Tiutulo
 
 lorem ipsum 
 
-
-capituloo 2
-cambio
+capitulo 3
 
 final
